@@ -1,0 +1,40 @@
+body{
+background-color: #FCF8EF;
+}
+
+#water{
+width:300px;
+height:300px;
+border: 3px solid #fab6cf;
+border-radius: 20px;
+}
+
+#shoe{
+width:300px;
+height:300px;
+border: 3px solid #fab6cf;
+border-radius: 20px;
+}
+
+#bed{
+width:300px;
+height:300px;
+border: 3px solid #fab6cf;
+border-radius: 20px;
+}
+
+#shelf{
+width:300px;
+height:300px;
+border: 3px solid #fab6cf;
+border-radius: 20px;
+}
+
+#test{
+background-color: #ec6f6f;
+box-shadow: rgb(250, 128, 149);
+}
+
+#develped{
+background-color: #F3CDDB;
+}
